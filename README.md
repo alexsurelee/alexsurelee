@@ -1,3 +1,6 @@
+
+![@alexsurelee (2240 x 600 px)](https://github.com/alexsurelee/alexsurelee/assets/11603625/fe7a9953-a055-4571-a823-dfcab08367c6)
+
 # Hi there 👋
 
 I'm a developer with a keen interest in the front-end space. This includes design systems, Jamstack applications, and just generally trying to make great user experience across any product.

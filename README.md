@@ -2,9 +2,10 @@
 
 I'm a developer with a keen interest in the front-end space. This includes design systems, Jamstack applications, and just generally trying to make great user experience across any product.
 
-- 🔭 I'm currently working on [Mony](https://github.com/alexsurelee/mony), when I am able to find some time to actually work on personal projects! It's a budgeting app for the New Zealand market, born out of my dissatisfaction with currently available applications in our corner of the world. It's very early in development at the moment, as I strive to avoid the impulsive nature of the front-end world and use every new thing that comes out (spoiler: it's using Remix!).
+- 🔭 I've been working on [KiwiSync](https://kiwisync.com/), a solution for connecting New Zealand-based bank accounts to YNAB. Unfortunately, this project is on hiatus due to prohibitive costs to get it all set up.
+    - This may end up being open source soon!
 - 💬 Like all good developers, I've got some opinionated preferences on tooling and linting. Turns out anonymous functions shouldn't be used everywhere!
-- 🌱 I'm currently learning [Remix](https://remix.run/) and running through the [Epic React](https://epicreact.dev/) course.
+- 🌱 I'm currently overhauling my personal site and taking the opportunity to try out some of the more hyped up frontend options at the moment. Neobrutalism design inbound!
 
 ## Technology
 

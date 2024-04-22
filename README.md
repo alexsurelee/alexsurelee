@@ -45,16 +45,3 @@ Here's some of my technologies and applications of choice, communicated via a sh
 
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
-## Stats
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alexsurelee&show_icons=true&theme=dark&hide_rank=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alexsurelee&show_icons=true&hide_rank=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=alexsurelee&show_icons=true&hide_rank=true" />
-</picture>
